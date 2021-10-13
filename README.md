@@ -1,6 +1,4 @@
-# st
-
-My personal build of Suckless' ST
+<p align="center"><img width=200 src="st.png"></p>
 
 ### Dependencies
 
