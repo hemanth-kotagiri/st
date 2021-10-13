@@ -1,2 +1,5 @@
+dwm
 config.h
-st
+drw.o
+dwm.o
+util.o
