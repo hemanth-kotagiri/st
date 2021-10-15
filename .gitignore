@@ -1,3 +1,5 @@
 st
 config.h
 *.o
+*.orig
+*.rej
