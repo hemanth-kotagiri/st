@@ -10,7 +10,7 @@ head over to [suckless.org](https://suckless.org).
 
 - [x] st-anysize
 - [x] alpha
-- [ ] scrollback
+- [x] scrollback
 
 ### Optional
 
